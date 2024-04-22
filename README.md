@@ -22,3 +22,9 @@ This project implements a dynamic theme switcher that allows users to toggle bet
 ### Setup and Usage
 + Toggle Switch: A checkbox input is used for toggling between themes. Changes trigger the theme switch function.
 + Local Storage: Stores the user's theme preference to ensure the preferred visual style is used on subsequent visits to the page.
+
+Light
+![image](https://github.com/chavez62/Light-Dark-Mode/assets/67764701/8e0cdf85-e133-4a62-822d-2e1eeffe11ea)
+
+Dark
+![image](https://github.com/chavez62/Light-Dark-Mode/assets/67764701/55f05df8-2034-40e4-ad89-f446c72281bd)
